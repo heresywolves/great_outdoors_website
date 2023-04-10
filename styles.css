@@ -41,3 +41,37 @@ body {
   font-weight: 300;
 }
 
+.top-section img {
+  width: 500px;
+}
+
+.top-section {
+  color: white;
+}
+
+.hero {
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-between;
+  margin-left: 120px;
+  margin-right: 120px;
+  gap: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
